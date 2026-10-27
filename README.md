@@ -18,7 +18,7 @@ Notebook ini menggunakan **data sintetis** untuk mempelajari cara memprediksi va
 Persamaan yang digunakan untuk membentuk data:
 
 [
-Y = 5 + 2.5X1 - 2X2 + \text{noise}
+y = 5 + 2.5 * X1 - 2 * X2 + noise
 ]
 
 - **X1 dan X2:** variabel prediktor yang digunakan model.
